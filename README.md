@@ -6,7 +6,6 @@ Aenean sodales accumsan mauris laoreet fermentum.  Sed ut lectus ut nunc finibus
 
  Vivamus sodales nunc lectus. Donec lacinia, odio in lobortis vehicula, lectus nunc placerat enim, sed luctus eros metus a lorem. Morbi suscipit ullamcorper lacinia. Pellentesque magna tortor, congue sit amet feugiat non, fermentum at nisi.  Pellentesque interdum ullamcorper finibus. Maecenas vehicula at nibh non elementum. Sed pretium est vitae neque bibendum blandit. Quisque facilisis mauris diam, vel accumsan leo posuere at. Proin porttitor nulla eu mauris cursus, quis 
 
-sagittis lectus elementum. Nulla at odio vel sem porttitor laoreet eu sed dolor. Vestibulum dui est, commodo id dictum id, pulvinar non tortor. Curabitur ipsum justo, imperdiet in pharetra ultrices, convallis non purus. Ut sem nisl, venenatis non leo vel, sodales laoreet massa.  Fusce ut felis placerat, venenatis odio sed, imperdiet nisi. Vestibulum quis mi elementum, laoreet augue et, malesuada diam. Integer semper non enim ut ornare. Mauris sit amet blandit lacus. Pellentesque quis mauris nec neque ullamcorper vestibulum non eget elit. In in rutrum risus. Ut in interdum libero. Curabitur elementum dolor nunc, eu bibendum libero tempus dictum.
 
 These algorithms can be categorized into 3 main categories.
 Supervised Algorithms: The training data set has inputs as well as the desired output. During the training session, the model will adjust its variables to map inputs to the corresponding output.

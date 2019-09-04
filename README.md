@@ -11,4 +11,5 @@ sagittis lectus elementum. Nulla at odio vel sem porttitor laoreet eu sed dolor.
 These algorithms can be categorized into 3 main categories.
 Supervised Algorithms: The training data set has inputs as well as the desired output. During the training session, the model will adjust its variables to map inputs to the corresponding output.
 Unsupervised Algorithms: In this category, there is not a target outcome. The algorithms will cluster the data set for different groups.
+
 Reinforcement Algorithms: These algorithms are trained on taking decisions. Therefore based on those decisions, the algorithm will train itself based on the success/error of output. Eventually by experience algorithm will able to give good predictions.
